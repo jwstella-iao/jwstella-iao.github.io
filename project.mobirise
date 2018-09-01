@@ -34,7 +34,8 @@
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
     "uniqCompNum": 58,
-    "versionPublish": "4.6.7"
+    "versionPublish": "4.6.7",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -72,7 +73,7 @@
             "showTitle": true,
             "showCaption": true,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
@@ -90,7 +91,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "JW Stella",
-          "caption": "<p>A decentralized ecosystem that is 100% backed up by luxurious assets and pegged to their steadily increasing market value. And at the same time its partial centralized algorithm intend to reward investors with profit-sharing at regular intervals.</p><p><br></p>",
+          "caption": "<p>A decentralized ecosystem that is 100% backed up by luxurious assets and pegged to their steadily increasing market value. And at the same time its partial centralized algorithm intend to reward investors with profit-sharing at regular intervals.</p><p>In the coming 2019, the hottest Cryptocurrencies are the one that are backed by real worthy assets that are stable in value. Not digital conceptual cryptocurrency that are susceptible to pump-dump activities! \n</p><p>Participants can redeem tokens with jewellery. Allows end users to redeem their tokens in the real-world diamond market without relying upon the hard-to-find expertise. \n</p><p>JW Stella ecosystem is powered by two platforms which are in developmental alpha stage. \n</p><p>a) JW Stella ECommerce &amp; Redeem Platform \n</p><p>b) JW Stella Cryptocurrency Instant Exchange \n</p><p>Vision: Is to have the ability to use every Gold, Diamond, Platinum, Gemstones and Palladium bars/coins produced as a basis for a worldwide currency, more valuable than any other digital cryptocurrency! \n</p><p>Creating a Crypto-Currency with it's value based on reals assets (precious jewellery). Allocated it in a hybrid nature ecosystem (Decentralization + Centralization). \n</p><p><a href=\"page1.html\">Whitepaper will be released soon!</a></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
@@ -103,26 +104,6 @@
             },
             ".mbr-section-title": {
               "color": "#e7c747"
-            }
-          }
-        },
-        {
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
-          },
-          "text": "In the coming 2019, the hottest Cryptocurrencies are the one that are backed by real worthy assets that are stable in value. Not digital conceptual cryptocurrency that are susceptible to pump-dump activities!\n<br>\n<br>Participants can redeem tokens with jewellery. Allows end users to redeem their tokens in the real-world diamond market without relying upon the hard-to-find expertise.\n<br>\n<br>JW Stella ecosystem is powered by two platforms which are in developmental alpha stage.\n<br>\n<br>a) JW Stella ECommerce &amp; Redeem Platform\n<br>\n<br>b) JW Stella Cryptocurrency Instant Exchange\n<br>\n<br>Vision:  Is to have the ability to use every Gold, Diamond, Platinum, Gemstones and Palladium bars/coins produced as a basis for a worldwide currency, more valuable than any other digital cryptocurrency!\n<br>\n<br>Creating a Crypto-Currency with it's value based on reals assets (precious jewellery). Allocated it in a hybrid nature ecosystem (Decentralization + Centralization). \n<br>\n<br>Whitepaper will be released soon!",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-1l",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-size": "20px"
             }
           }
         },
@@ -618,7 +599,7 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.4
           },
-          "title": "<span style=\"font-weight: normal;\">JWSA Token</span><br>",
+          "title": "<span style=\"font-weight: normal;\">JWSA Token (<a href=\"https://github.com/jwstella-iao/jwsa-token/tree/master\" class=\"text-success\">github</a>)</span><br>",
           "search": "Search:",
           "info1": "Showing",
           "info2": "entries",
