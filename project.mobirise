@@ -1,0 +1,1308 @@
+{
+  "settings": {
+    "name": "JW Stella Announcement",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "colorm",
+      "title": "ColorM",
+      "styling": {
+        "primaryColor": "#f39c12",
+        "buttonsColor": "#000000",
+        "secondaryColor": "#9b59b6",
+        "successColor": "#2ecc71",
+        "infoColor": "#3498db",
+        "warningColor": "#f1c40f",
+        "dangerColor": "#e74c3c",
+        "titleFont": "Arvo",
+        "subtitleFont": "Montserrat",
+        "textFont": "Open Sans",
+        "isRoundedButtons": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      },
+      "additionalSetColors": [
+        "#e7c747",
+        "#04558b",
+        "#78f2ab"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "siteUrl": "undefined",
+    "versionFirst": "4.6.7",
+    "uniqCompNum": 57,
+    "versionPublish": "4.6.7"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#bbbbbb"
+          },
+          "text": "<p>This is a drafted website only!</p><p>For internal use only!</p><p><br></p><p>JW Stella Crowdfunding to collect <b><i>USD $65 million</i></b> in public sale.</p><p><br></p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1i",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "30px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/12OTJw0iLeI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/12OTJw0iLeI?rel=0&showinfo=0&autoplay=0&loop=0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "JW Stella",
+          "caption": "<p>A decentralized ecosystem that is 100% backed up by luxurious assets and pegged to their steadily increasing market value. And at the same time its partial centralized algorithm intend to reward investors with profit-sharing at regular intervals.</p><p>In the coming 2019, the hottest Cryptocurrencies are the one that are backed by real worthy assets that are stable in value. Not digital conceptual cryptocurrency that are susceptible to pump-dump activities!</p><p>Participants can redeem tokens with jewellery. Allows end users to redeem their tokens in the real-world diamond market without relying upon the hard-to-find expertise.</p><p>JW Stella ecosystem is powered by two platforms which are in developmental alpha stage.</p><p>a) JW Stella ECommerce &amp; Redeem Platform</p><p>b) JW Stella Cryptocurrency Instant Exchange</p><p>Vision: &nbsp;Is to have the ability to use every Gold, Diamond, Platinum, Gemstones and Palladium bars/coins produced as a basis for a worldwide currency, more valuable than any other digital cryptocurrency!</p><p>Creating a Crypto-Currency with it's value based on reals assets (precious jewellery). Allocated it in a hybrid nature ecosystem (Decentralization + Centralization).&nbsp;</p><p><a href=\"page1.html\" class=\"text-success\"><b>Whitepaper will be released soon!</b></a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-i",
+          "_styles": {
+            "P": {
+              "font-size": "23px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#e7c747"
+            }
+          }
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "showTitle": true,
+            "showButtons": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/09.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#3498db",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "overlay": true,
+            "overlayColor": "#52779e",
+            "overlayOpacity": 0.5
+          },
+          "title": "Platforms (Alpha stage)",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos quaerat omnis amet accusantium accusamus quidems?",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning-outline btn-warning\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Ecommerce</a><a data-app-btn=\"true\" class=\"btn btn-success\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Instant Exchange</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "call4",
+          "_anchor": "call4-v"
+        },
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "140px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "margin-bottom": "60px",
+              "font-size": "46px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".nav-tabs": {
+              "margin-top": "90px"
+            }
+          },
+          "_params": {
+            "showHeader": true,
+            "showImages": true,
+            "showTitles": true,
+            "tabs": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-m2buj-lpucureywnd-nj7g-1600x900.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#34495e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#34495e",
+            "overlayOpacity": "0.9"
+          },
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "title": "JW Stella<br>",
+          "title1": "Hybrid Style Ecosystem",
+          "title2": "2 types of Token issued",
+          "title3": "TRENDY WEBSITE BLOCKS",
+          "title4": "Our Mission. Maximum Profitablility",
+          "title5": "About JW Stella",
+          "title6": "CONTACT FORMS",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header5-7\" aria-expanded=\"false\">HYbrid Ecosystem</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header5-7\" aria-expanded=\"true\">TOkens</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header5-7\" aria-expanded=\"false\">MIssion</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header5-7\" aria-expanded=\"false\">About Us</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header5-7\">Beautiful</a></li>",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "linegraph",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "attachment",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "paperclip",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "upload",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "linkInNewWindow": false,
+              "name": "genius",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": 0,
+              "color": "@primaryColor"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text1": "JW Stella token (JWSA) is a secure crypto-currency fully backed by high-quality diamonds, gold, platnium, gemstones and other investment grade jewellery. It is issued on the Ethereum Blockchain Network. Ethereum smart contracts guarantee that there cannot be more JWSA tokens in the system than diamonds used as collateral.<br><br>By being pegged to a fixed amount of investment-grade gemstones and gold, JWSA token aims to function as a convenient digital currency with limited amounts of speculative trading by having an intrinsic value derived from its asset-backing.<br><br>The ecosystem is such that the decentralized structure ensures complete accurate security and transparency. And at the same times, it is partially centralised to ensure investors/participants will be rewarded with annual return on their investment.&nbsp;<br><br>The collection of assets not only gives our token its intrinsic value, any profits generated are also shared between the token holders.<br><br>Please refer to the TOKENS section for profit details.<br><br>",
+          "text2": "<b>※ JWSA Token. (Decentralized-Utility)</b><br><b>Stable Token.</b> A supply of 68 million tokens will be generated in the Ethereum blockchain network. 65 million tokens will be available in crowdfunding. It is pegged to the assets (diamond, gols, platinum, gemstones and jewellery). Members may use the JWSA token to do transaction or purchase goods at discounted price. The unit price of each JWSA may also rise considerably above its initial offering price due to its limited supply and also the increasing demand from international market because of its pegging nature.&nbsp; As they are 100% redeemable, the JWSA token provides the first kind of exposure to the diamond/jewellery market, eliminating the need of holding the assets physically throughout the trading process.<br><br><b>※ JWRD Token (Centralized-Rewarding)</b><br><b>Revenue Sharing Token. </b>Any profits generated from the business are also shared between the token holders. &nbsp;Hence investors do not just depends on the free-market value (price will rise or fall) of the token for invesment return. Investors will also be guranteed a share of the profits earned from the business operation. Any holder of the JWRD tokens will be notified for profit sharing at half yearly interval. Profit-sharing reward may be paid in Bitcoin, Ether or JWSA tokens. The amount of the JWRD tokens is fixed at 21,000 only.<br><br><br>",
+          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus, nam officia. Repellendus quae modi eaque sed, aliquam molestias, amet neque blanditiis illo ratione eos! Unde minima porro, consequatur eveniet dolore!",
+          "text4": "Our mission is to create a more efficient global economic growth and promote societal advancement by developing a platform that brings cryptocurrencies into mainstream business and consumer markets.\nBy adhering to these practices, we hope to bring the world closer together by introducing a new universal cryptocurrency-driven economy.\n<br><br>Our token is a real assets-backed cryptocurrency designed to be a part of a new economic ecosphere, which is built on top of a solid foundation based on proven business fundamentals essential for real-world transactions.\n<br><br>“The jewellery industry (diamond, gold, platinum and gemstones) can be an attractive investment channel for the many investors in digital currencies. This currency is unique as it will be backed by investments in these assets, which have steadily appreciated over time. There is a large community of investors in digital currencies throughout the world. By backing this currency with diamonds we are significantly decreasing the speculative level of the investment. Our cooperation with various global exchange is an important step in making this currency a reality.”",
+          "text5": "JW Stella is a revolutionary and combination blockchain technological company that unifies currently divided global financial markets. JW Stella's disruptive trading model and transactional system is the epoch to new era of ecnomic harmony  between the traditional commodities and contemporary blockchain marketplaces..\n<br>\n<br>RDM is re-implementing a global standard precious metals system using blockchain financial technology and creatin g a place of unparalleled security for digital assets to be stored, exchanged, bought, sold and converted without fear of marketplace volatility.\n<br>\n<br>RDM is the fiscally responsible gatekeeper to both the blockchain and precious metals and gemstones markets with its physical locations providing confidence to both non-blockchain users and existing users through physical entry and exit points to and from the blockchain marketplace.\n<br>\n<br>RDM has created a complete global supply chain in order to provide consumers unparalleled transaction fees. Our supply chain sees precious metals sourced from primary sources (mines) in raw form,  refined to .9999 purity, then transported and stored in international vaults.\n<br>\n<br>",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header5",
+          "_anchor": "header5-7"
+        },
+        {
+          "_inherit": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "filterBgColor": false,
+            "bgColor": "#ffffff",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "image": "@PROJECT_PATH@/assets/images/gemstones-1-1024x1015.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gemstones-1-1024x1015-800x793.png",
+                "alt": "",
+                "title": "",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/gold-460x300.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/gold-460x300-460x300.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/ah18261-768x768.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ah18261-768x768-768x768.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
+                "image": "@PROJECT_PATH@/assets/images/white-diamond-1024x730-800x570.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/white-diamond-1024x730-800x570-800x570.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "articleLayout": false,
+          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
+          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
+          "allItem": "ALL",
+          "_name": "gallery2",
+          "_anchor": "gallery2-n"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#ffffff"
+          },
+          "text": "<p>“Coloured diamonds are the rarest commodity in the world and quite simply the world’s most concentrated form of wealth; it is expected that this trend will continue. The current global yield of coloured diamonds mined per year will slow down… while demand from the jewellery industry keeps rising. Pink and other fancy grade coloured diamonds… are the only commodity that has not decreased in price since they began being tracked in 1959. This will only enhance the validity of JWSA token in the market place,”</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-r"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "countdown": "2018/10/01",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/05.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#34495e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#e74c3c",
+            "overlayOpacity": 0.75
+          },
+          "title": "Token Sales Allocation \r<div>Early Bird: 40% ($1.00) \r</div><div>Pre-IAO: 30% ($2.00) \r</div><div>IAO: 30% ($4.00)</div><br><div><b>Private Sales starts in&nbsp;</b></div>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "countdown2",
+          "_anchor": "countdown2-2",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "color": "#eeeeee",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "36px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "25px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgColor": "#34495e"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">Pre-launching global announcement</a> ",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title": {
+              "font-weight": "700",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "36px",
+              "color": "#ffffff"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "letter-spacing": "2px",
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showImages": true,
+            "showTitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#3498db",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/1FnGkJtQJDY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/1FnGkJtQJDY",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#34495e",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "phone",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": "100",
+              "color": "#ffffff"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "edit",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": "100",
+              "color": "#ffffff"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "briefcase",
+              "family": "et-line",
+              "active": true,
+              "link": "",
+              "size": "100",
+              "color": "#ffffff"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#fff",
+              "family": "et-line"
+            }
+          },
+          "title": "<span style=\"font-weight: normal;\">First cryptocurrency correlated to jewellery and backed with centralised return</span>",
+          "title1": "Bootstrap 4",
+          "subtitle1": "What is JWSA",
+          "caption1": "JWSA token is the ultimate cryptocurrency to offer the public an opportunity to be directly buying and investing in the growing international jewellery business. Its hybrid natire ecosystem ensure participants will acquire maximum profitability.",
+          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title2": "Responsive",
+          "subtitle2": "Why Is It Unique?",
+          "caption2": "Through a secure, effective and fast system. It is an end-to-end solution with its own Token and systems of verification, trading and tracking of diamonds. &nbsp;JWSA as the trading symbol. It serves as a reference for the use of this system and in the market of precious gems",
+          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title3": "Web Fonts",
+          "subtitle3": "Why JWSA",
+          "caption3": "JW Stella is a newly big data ecosystem for jewellery/diamonds platform for global market. Participants can redeem tokens with jewellery. Allows end users to redeem their tokens in the real-world diamond market without relying upon the hard-to-find expertise",
+          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white\">learn more</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features2",
+          "_anchor": "features2-o"
+        },
+        {
+          "_styles": {
+            "th": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px",
+              "color": "#ffffff"
+            },
+            "TH": {
+              "color": "#ffffff"
+            },
+            "TD": {
+              "color": "#78f2ab"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "12",
+            "colCount": "2",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#34495e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "<span style=\"font-weight: normal;\">JWSA Token</span><br>",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Subject</th><th>Details</th></tr></thead><tbody><tr><td>Name</td><td>JW Stella</td></tr><tr><td>Symbol</td><td>JWSA</td></tr><tr><td>Max Supply</td><td>68 million JWSA</td></tr><tr><td>For Sale</td><td>65 million JWSA</td></tr><tr><td>Early Bird Price</td><td>USD $1</td></tr><tr><td>Pre-IAO Price</td><td>USD $ 2</td></tr><tr><td>IAO Price</td><td>USD $4</td></tr><tr><td>Sales Duration</td><td>Uncapped</td></tr><tr><td>Soft Cap</td><td>Uncapped</td></tr><tr><td>Hard Cap</td><td>Uncapped</td></tr><tr><td>Currency Accepted</td><td>BTC and ETH</td></tr><tr><td>Token Type</td><td>ERC20 Token. Fixed Supply</td></tr></tbody>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "table1",
+          "_anchor": "table1-d"
+        },
+        {
+          "_styles": {
+            ".btn-social": {
+              "color": "#fff",
+              "height": "60px",
+              "width": "60px",
+              "line-height": "60px",
+              "font-size": "2rem"
+            },
+            ".mbr-section-title": {
+              "color": "#fff",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "36px"
+            }
+          },
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-m2buj-lpucureywnd-nj7g-1600x900.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#34495e",
+            "overlay": true,
+            "overlayColor": "#04558b",
+            "overlayOpacity": "0.7",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": true,
+            "odnoklassniki": true
+          },
+          "text": "Social Channels. Coming Soon!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-1k"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "stripedBars": false,
+            "progress1": "95",
+            "progress2": "3",
+            "progress3": "1",
+            "progress4": "1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/08.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#34495e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#34495e",
+            "overlayOpacity": 0.85
+          },
+          "title": "<b>Token Distribution (68 million JWSA tokens)</b>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem fugiat perferendis voluptates, animi cum dignissimos debitis, nam hic aspernatur cumque quaerat dolorum sed, delectus rerum omnis consequatur nulla neque temporibus quis ipsam dolor esse dolore! Commodi quidem necessitatibus nesciunt. Repellat quo dolores beatae facere provident rem magnam quidem vel autem?",
+          "title1": "Pre-sale&amp; Crowdfunding",
+          "title2": "JW Stella company",
+          "title3": "marketing team",
+          "title4": "Strategic partnership",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "progress-bar1",
+          "_anchor": "progress-bar1-5",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "30px",
+              "color": "#78f2ab"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "stripedBars": true,
+            "progress1": "75",
+            "progress2": "15",
+            "progress3": "5",
+            "progress4": "5",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#1abc9c",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#1abc9c",
+            "overlayOpacity": 0.85
+          },
+          "title": "<b>Funding Distribution</b>",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem fugiat perferendis voluptates, animi cum dignissimos debitis, nam hic aspernatur cumque quaerat dolorum sed, delectus rerum omnis consequatur nulla neque temporibus quis ipsam dolor esse dolore! Commodi quidem necessitatibus nesciunt. Repellat quo dolores beatae facere provident rem magnam quidem vel autem?",
+          "title1": "PRECIOUS JEWELLERY INVENTORIES AND OPERATIONS",
+          "title2": "PLATFORM DEVELOPMENT",
+          "title3": "Marketing",
+          "title4": "Crowfunding operation",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "progress-bar2",
+          "_anchor": "progress-bar2-1f",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-size": "30px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "left"
+            },
+            ".mbr-section-subtitle": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "50px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#000"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showHeader": true,
+            "showText": false,
+            "showImages": true,
+            "showTitles": false,
+            "tabs": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#eeeeee",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "",
+              "rawUrl": "",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "title": "<br>Peg your investment to the asset that's been rising for 30 years",
+          "text": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit asperiores itaque vero facere laudantium voluptas temporibus mollitia, nisi deleniti illo minima quisquam corporis possimus nesciunt.",
+          "title1": "BOOST YOUR RANKING",
+          "title2": "BOOTSTRAP BUILDER",
+          "title3": "TRENDY WEBSITE BLOCKS",
+          "title4": "HOST ANYWHERE",
+          "title5": "IMAGE/CONTENT SLIDER",
+          "title6": "CONTACT FORMS",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-1e\" aria-expanded=\"true\">world class jewellery</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-1e\" aria-expanded=\"false\">Simple redemption</a></li><li class=\"nav-item\" style=\"display: none;\"><br></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-1e\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-1e\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-1e\">Beautiful</a></li>",
+          "media11": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/howitworksimage-921x651.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media12": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pure-diamond-600x425.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media13": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb3.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media14": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb4.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media15": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb5.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media16": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb6.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media21": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media22": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "attachment",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media23": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "paperclip",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media24": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "upload",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media25": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media26": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text1": "JWSA is mainly backed by the best quality diamonds:\n<br>Size from 0.3 Carats to 6 Carats and higher\n<br>Clarity from VS1 to Flawless\n<br>Color F and higher\n<br>Very Good or Excellent Cut<br><br>Always get your money’s worth. JWSA Tokens are backed by diamonds, making them forever liquid.<br>",
+          "text2": "Converting JWSA into diamonds/jewellery is as simple as redeeming air miles. Choose your diamond, book it in the system and redeem for JWSA Token.<br><br>You can redeem JESA Tokens for real, GIA-certified diamonds.<br>",
+          "text3": "JW Stella is tokenizing the world’s most precious commodity — diamonds and jewellery. We're building a liquid method to exchange diamonds’ digital value with a real-world usage and exposure to the diamond and jewelry industries.",
+          "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
+          "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header9",
+          "_anchor": "header9-1e"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "tabs": "6",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/img_extAccordion1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "title": "FAQ",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut beatae nostrum quis ab, fuga ducimus, eligendi facere atque provident tempore vitae, cupiditate fugit explicabo. Nostrum quidem itaque blanditiis maxime, perferendis numquam ab a exercitationem impedit repellat, voluptate sunt! Veritatis, nam.",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-z-init\" data-core=\"\" href=\"#collapseOneaccordion1-z\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What is JW Stella?</a>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion1-z-init\" data-core=\"\" href=\"#collapseTwoaccordion1-z\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Related to diamond/jewellery industry?</a>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-z-init\" data-core=\"\" href=\"#collapseThreeaccordion1-z\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Related to Blockchain?</a>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-z-init\" data-core=\"\" href=\"#collapseFouraccordion1-z\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Crowdfunding?</a>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-z-init\" data-core=\"\" href=\"#collapseFiveaccordion1-z\" aria-expanded=\"true\" aria-controls=\"collapseFive\">JWSA as stablecoin?</a>",
+          "title6": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#accordion1-z-init\" data-core=\"\" href=\"#collapseSixaccordion1-z\" aria-expanded=\"true\" aria-controls=\"collapseSix\">Why invest in JW Stella?</a>",
+          "text1": "<p>The evolution of the world economy has been nearly identical for each commodity. Hundreds of years of hand-to-hand trading in the actual, physical merchandise eventually gives way to more sophisticated financial markets built atop them. This upgrade allows markets to be expand while remaining more secure. Alone amongst all the other physical commodities, only the diamond/jewellery market has never taken this next (and necessary) step and without commoditization, the diamond trade will remain flawed unrefined and closed.Without commoditization, the diamond trade has remained flawed, unrefined and closed.</p><p>Using the latest technological developments, JW Stella has created a state-of-the-art algorithm that has standardized price evaluation of the precious stones, and compares individual diamond grade to daily market conditions. This standardizes and automates a primitive market - allowing JW Stella to unlock the world’s first financial market for diamonds.\n</p><p>\n<span style=\"font-size: 1rem;\">By commoditizing the diamond market, JW Stella has made the commodity accessible to all users who no longer need to rely on hard-to-find expertise. Investors can purchase JWSA tokens, diamond/jewellery-backed digital currency, which can be redeemed in the real-world diamond market. By being linked to a physical commodity averaging an appreciation of 5-6% annually, the JWSA token remains one of the most stable and promising assets.&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">Beyond being a sound use of capital, the JWSA token will also function as a means of payment that will help kick-start the diamond and jewelry industries in two ways: by allowing members of the crypto world to purchase diamonds and jewellery, and as a B2B payment method between members of the diamond industry themselves.&nbsp;</span></p><p>\n<span style=\"font-size: 1rem;\">JW Stella melds hi-tech, a strong base within the crypto community and strategic partnerships in the diamond industry to sit in the driver’s seat of an exciting ecosystem bringing millions of people to the convergence of the crypto and diamond markets.</span></p>",
+          "text2": "<p>First and foremost, we’re the first ones in the world to create a true off-bank market for commoditizing diamonds, which allows end-users to exchange tokens for real, certified diamonds. JW Stella is creating a whole new financial market for diamonds, based on the real-world diamond market, without relying upon the hard-to-find expertise or excessive capital required to purchase individual diamonds. Rather, people can trade with the more fungible, less volatile and asset-based JWSA Token.</p>",
+          "text3": "<p>By applying blockchain technology, JW Stella creates a state-of-the-art system to tokenize the diamond industry.\n</p><p>\n<span style=\"font-size: 1rem;\">Tokenizing diamonds allows us to sidestep the inherent individuality of each diamond, thus breaking down the homogeneity barrier. It acts as a type of ‘second-stage processing,’ converting the value assigned to a physical diamonds into a generic, divisible, diamond-backed token. Not only can these digital tokens be effortlessly transferred upon contract fulfillment, but they also eliminate the traditional geographic or temporal limitations of diamond industry.&nbsp;</span></p><p><span style=\"font-size: 1rem;\">Blockchain is technology breaks down to a data record that exists on one computer with info for example a record of dates or names. When that data needs to be updated, Blockchain technology creates a new Block, dataset, in the Chain that carries all prior info and adds new info that helps define new instructions and information, but does not need to return to a central computer to validate the new information. Blockchain technology pre-dates cryptocurrencies and in fact was originally envisioned to be used for Date-Stamping of large document repositories where new dates could easily be added and tracked when faced with millions of pieces of paper. Blockchain technology was quickly adapted to represent currency values and cryptocurrency was born. With ventures like BitCoin, without needing a central bank computer to validate trades and 24/7 access, transactions flourished. Ergo.. all cryptocurrencies function on Blockchain technology, but not all Blockchains are cryptocurrencies.</span></p><p><span style=\"font-size: 1rem;\">Cryptocurrencies can move capital between people in separate countries with differing currencies. Previously you needed to wait for various banks and governments to connect to facilitate these deals and validate amounts which could take days. Cryptocurrency is quick, operates 24/7 and is far less expensive relative to the fixed costs of banking, government administration and large costs of minting coins and paper notes of a national currency.</span></p><p>\n</p><p>&nbsp;</p>",
+          "text4": "<p>Total token generated are 68 million &nbsp;JWSA token, of which 65 million tokens are available for public participation.</p><p>Early Early phase: $1/token\n</p><p>Pre-ICO phase: $2/token\n</p><p>ICO pase: $4/token</p><p>The crowfunding will end when &nbsp;65 millions JWSA tokens are sold. Our development team will simultaneously develop the platforms and the marketing strategy alongside the crowdfunding sales.</p><p><br></p>",
+          "text5": "<p>JWSA was built on the Ethereum Blockchain, and rather than speculation to give it value, JWSA is backed up by diamonds and gemstones and others forms pf jewellery.</p><p>1. Creating a great stable value crypto-token that representing gold, diamond, gemstones and others forms of appreciating jewellery.\n</p><p>2. In 2019. The hottest Cryptocurrencies are the one that are backed by real assets that are stable in value. Not digital conceptual cryptocurrency.\n</p><p>3. JWSA token acts as a stablecoin as the name implies, are cryptocurrencies whose values are kept stable by pegging them to another asset.\n</p><p>4. Hence JWSA tokens is also significantly more liquid than physical gold, as it offers fast and easy transferability and can be traded 24/7, 365 days on cryptocurrency exchange</p>",
+          "text6": "<p>1. Once JWSA token is listed the the global cryptocurrency exchanges, the high demand of the limited-supply JWSA may result in the gradually price increase.</p><p>2. Partipicants are also entitled to profit or revenue sharing from the business operation. This is represented by the side token - JWRD</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "accordion1",
+          "_anchor": "accordion1-z",
+          "_styles": {
+            "H1": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "rows": "2",
+            "bgItem1": "#9b59b6",
+            "bgItem2": "#ffc80a",
+            "bgItem3": "#2ecc71",
+            "bgItem4": "#3498db",
+            "paddingTop": 2,
+            "paddingBottom": 0,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#ecf0f1",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "Our Team",
+          "subtitle": "Please refer to the Whitepaper for complete team members details.<br><br>Our team offers a unique combination of extensive business experience, technical skills, international perspective and hands-on attitude.\tWe blend deep technological skills with creativity and academic excellence with executive experience.\tOur aim is to establish ourselves as blockchain technology leader for the asset-backed cryptocurrency industry.",
+          "person1": "Thomas Maine",
+          "person2": "Roselin Charlton",
+          "person3": "Barry Underwood",
+          "person4": "NATALINA INGLIS",
+          "subtitle1": "<span style=\"font-weight: normal;\">Chief Executive Officer</span>",
+          "subtitle2": "<span style=\"font-weight: normal;\">Chief Technology Officer\n</span><div><br></div>",
+          "subtitle3": "<span style=\"font-weight: normal;\">Chief Financial Officer</span>",
+          "subtitle4": "<span style=\"font-weight: normal;\">Head of Projects\n</span><div><br></div>",
+          "caption1": "Thomas is the Chief Executive Officer (CEO) of Kinesis Limited as well as Allocated Bullion Exchange (ABX). He has worked in the investment, funds management and bullion industries for approximately seventeen years. His professional portfolio management career spans the foundation of the boutique investment company, TRAC Financial, to the establishment of a highly successful Absolute Return Fund. Thomas has dedicated a significant part of his career working collaboratively to build the complex systems of a cross-border international bullion market with an extensive global network of central bankers, brokers, fund managers and advisers. His experience, extensive network and broad knowledge of capital markets, enable him to deliver exceptional value and insight to all stakeholders.",
+          "caption2": "She is the Chief Technology Officer (CTO) of Allocated Bullion Exchange (ABX). As an Agile Practitioner, she has coached and led sizeable teams of professionals and directed numerous successful projects using Agile strategies. Roselin is a resourceful and insightful professional with a natural disposition to strategic problem solving using both her extensive knowledge of Agile methodologies and her inherent problem solving skills. Applying these skills through strategic architectures and technologies, Roselin ensures that business objectives are always fully comprehended and met. Her areas of expertise include IT Strategy, Strategic Management, Wealth Development and Management Methodologies, SCRUM, Kanban.&nbsp;Enterprise Architecture Principles.",
+          "caption3": "Barry is the Chief Financial Officer (CFO) of Allocated Bullion Exchange (ABX). His tertiary accountancy education was completed at the University of Southern Queensland, with Post Graduate studies at the University of Queensland in Economics, and Canberra University in Taxation Law. Barry has a total of 41 years experience as a CPA in the accountancy and financial services professions. He has owned and operated a Brisbane-based public accountancy firm and financial services company since 1984. Awarded a Cadetship with the Australian Taxation Office in 1973, he worked in the assessing, business audit and investigation areas of the Australian Taxation Office, and eventually in the Interpretation and Advising Branch of the Taxation Office’s Head Office in Canberra until November 1979, at which time he commenced in public practice.",
+          "caption4": "She is the Head of Projects, providing project management oversight across all projects which constitute the JW Sr Stella ecosystems. Natalina works closely with the business divisions across 4 continents, and with the CTO to ensure project delivery and system development alignment. Ben integrates the business project management demands with the Agile approaches utilised in the software development teams to enable smooth communication between the two domains A lawyer by trade, Natalina additionally brings to the team a wealth of experience in the precious metals industry along with the crypto currency domain, offering a valuable combination of organisational project alignment with the requirements of JW Stella as it develops. Natalina&nbsp;favours a high-energy, creative approach to management.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary-outline btn-primary\">BUY NOW</a>",
+          "media1": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/5-336x337.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/9-336x348.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/4-340x336.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/10-341x336.jpg",
+              "class": "features-img",
+              "width": 600,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "team1",
+          "_anchor": "team1-11",
+          "_styles": {
+            ".subtitle1": {
+              "font-size": "20px",
+              "color": "#ffffff"
+            },
+            ".subtitle2": {
+              "font-size": "20px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".title2": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "24px"
+            },
+            ".text1": {
+              "color": "#ffffff"
+            },
+            ".title1": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "color": "#ffffff",
+              "font-size": "24px"
+            },
+            ".subtitle1 SPAN": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            },
+            ".title3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "24px",
+              "color": "#ffffff"
+            },
+            ".subtitle3": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px",
+              "color": "#ffffff"
+            },
+            ".text3": {
+              "color": "#ffffff"
+            },
+            ".title4": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "24px"
+            },
+            ".subtitle4": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "20px",
+              "color": "#ffffff"
+            },
+            ".text4": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": true,
+            "blocks": "4",
+            "cardsColor": "#eeeeee",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2980b9",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "mainTitle": "Roadmap",
+          "mainSubtitle": "Roadmap may subject to changes",
+          "title1": "1. Closed Pre-Sale for Accredited Customers",
+          "title2": "2. Platform (Aplha) Launching",
+          "title3": "3. Expansion",
+          "title4": "4. Moving Forward and Follow-up",
+          "title5": "5. Awesome Reports",
+          "title6": "6. Multi Homepages",
+          "title7": "7. Responsive Design",
+          "title8": "8. Smart Watch",
+          "title9": "9. Design out of the box",
+          "title10": "10. Awesome Reports",
+          "title11": "11. Design out of the box",
+          "title12": "12. Awesome Reports",
+          "date1": "01-10-2018",
+          "date2": "01-12-2018",
+          "date3": "01-02-2019",
+          "date4": "01-03-2019",
+          "date5": "5 May 2016",
+          "date6": "6 June 2016",
+          "date7": "7 July 2016",
+          "date8": "8 August 2016",
+          "date9": "9 September 2016",
+          "date10": "10 October 2016",
+          "date11": "11 November 2016",
+          "date12": "12 December 2016",
+          "text1": "1-1. Subscription by accredited large-scale customers with minimum subscription amount equivalent to USD 10,000. Special token rates applied.<br><br>1-2. Early Bird private sales (1 JWSA token = USD1) for public participation.<br><br><b>Token Sales Allocation</b>\n<br>Early Bird: 40% ($1.00)\n<br>Pre-IAO: 30% ($2.00)\n<br>IAO: 30% ($4.00)<br><br>Releasing whitepaper and team members details&nbsp;",
+          "text2": "-Lauching alpha platform for public testing.<br>-Testing redemption process.<br>-Launching Crypto-Instant Exchange&nbsp;<br>-World-wide Marketing&nbsp;<br>-Launch social media channels",
+          "text3": "-Launching beta platform for final testing.<br>-Prepare for Crypto-Exchange Listing.<br>-Publish legal documents.<br>-Patnership with international assets exchange.<br>",
+          "text4": "-Primary legal, technical and other analysis.<br>-Establishment of the final legal scheme, taken into consideration the possibility of tokens legalization as securities and IAO. Identification of the key project partners and terms of cooperation.<br>-Publish Redemption reports and tutorial<br>-The build and completion of the proprietary Primary Marketplace environment<br>-Crypto-Exchange listing<br>-Ecommerce and Redemption Platform launching<br>-JW Stella website update<br>-Global awarness marketing program<br>–Manage Growth &amp; stabilise operations\n<br>–Release Mobile Apps &amp; other product extensions<br><br>More roadmap timeline will be published soon",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features9",
+          "_anchor": "features9-12",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "60px"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "H4": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "logo": false,
+            "showTitles": true,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/colorm_logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "title1": "JW Stella<br>Social media channels will be available soon!",
+          "form": {
+            "action": "firdauslee.rhb@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"cm-icon cm-icon-paperplane\"></span></a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer4",
+          "_anchor": "footer4-1h"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Alpha",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<p><br></p><p><br></p><p>The content you are looking for is still under alpha developmental stage!</p><p>Please come back soon for more details.&nbsp;</p><p><br></p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1a",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
