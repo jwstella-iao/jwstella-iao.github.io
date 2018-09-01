@@ -76,9 +76,9 @@
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#ecf0f1",
-            "bgVideoRadio": true,
+            "bgColorRadio": true,
+            "bgColor": "#04558b",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/12OTJw0iLeI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/embed/12OTJw0iLeI?rel=0&showinfo=0&autoplay=0&loop=0",
@@ -468,9 +468,9 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": false,
-            "overlayColor": "#34495e",
-            "overlayOpacity": 0.9
+            "overlay": true,
+            "overlayColor": "#04558b",
+            "overlayOpacity": "0.6"
           },
           "media1": {
             "iconFont": {
