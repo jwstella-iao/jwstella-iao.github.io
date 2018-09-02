@@ -168,10 +168,10 @@
             "showCaption": true,
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert2.jpg",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg1-1256x707.png",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#04558b",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -180,7 +180,7 @@
               "width": 1280,
               "height": 720
             },
-            "overlay": true,
+            "overlay": false,
             "overlayColor": "#000000",
             "overlayOpacity": "0.7"
           },
@@ -194,10 +194,10 @@
           "_styles": {
             "P": {
               "font-size": "23px",
-              "color": "#ffffff"
+              "color": "#0b4368"
             },
             ".mbr-section-title": {
-              "color": "#e7c747"
+              "color": "#3498db"
             }
           }
         },
