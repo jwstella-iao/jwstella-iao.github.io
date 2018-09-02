@@ -816,6 +816,16 @@ blockquote {
 #content5-i .mbr-section-title {
   color: #e7c747;
 }
+#features8-1r .lead {
+  color: #9fa3a7;
+}
+#features8-1r .mbr-section-subtitle {
+  text-transform: uppercase;
+  color: #000000;
+}
+#features8-1r .mbr-section-text {
+  color: #000000;
+}
 #header5-7 .elements-content {
   padding-bottom: 140px;
 }
