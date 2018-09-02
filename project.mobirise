@@ -123,7 +123,7 @@
               "src": "@PROJECT_PATH@/assets/images/logo200-128x128.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": ""
             },
             "iconFont": {
