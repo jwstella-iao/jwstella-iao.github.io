@@ -109,7 +109,7 @@
             "hideButtons": true,
             "sticky": false,
             "collapsed": true,
-            "transparent": true,
+            "transparent": false,
             "bgColor": "#2c3e50",
             "fontSize": 0.875,
             "fontName": {},
@@ -146,7 +146,7 @@
             "paddingBottom": 1,
             "bgColor": "#bbbbbb"
           },
-          "text": "<p>This is a drafted website only!</p><p>For internal use only!</p><p><br></p><p>JW Stella Crowdfunding to collect <b><i>USD $65 million</i></b> in public sale.</p><p><br></p>",
+          "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>This is a drafted website only!</p><p>For internal use only!</p><p><br></p><p>JW Stella Crowdfunding to collect <b><i>USD $65 million</i></b> in public sale.</p><p><br></p>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
