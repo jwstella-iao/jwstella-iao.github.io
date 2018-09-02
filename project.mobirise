@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 68,
+    "uniqCompNum": 69,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -485,6 +485,31 @@
           ],
           "_name": "image1",
           "_anchor": "image1-1v"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/blockchain-technology-key-forces-e1514123748645-1400x1050.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1w"
         },
         {
           "_params": {
