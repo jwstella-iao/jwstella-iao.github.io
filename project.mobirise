@@ -169,7 +169,7 @@
             "paddingTop": "2",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg1-1256x707.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/bg1-1024x576.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#04558b",
@@ -185,7 +185,7 @@
             "overlayOpacity": "0.7"
           },
           "title": "JW Stella",
-          "caption": "<p>A decentralized ecosystem that is 100% backed up by luxurious assets and pegged to their steadily increasing market value.</p><p>And at the same time its partial centralized algorithm intend to reward investors with profit-sharing at regular intervals.</p><p><a href=\"page1.html\" class=\"text-primary\">Whitepaper will be released soon!</a></p><p><br></p>",
+          "caption": "<p>A decentralized ecosystem that is 100% backed up by luxurious assets and pegged to their steadily increasing market value.</p><p>And at the same time its partial centralized algorithm intend to reward investors with profit-sharing at regular intervals.</p><p><b><a href=\"https://docs.google.com/document/d/1DmVfXXZZY5GAYjMi7czGJ5zredTd8FJ9ytd0hOBx_WA/edit?usp=sharing\" class=\"text-primary\">Whitepaper</a></b></p>",
           "_tags": [
             "Theme"
           ],
@@ -193,7 +193,7 @@
           "_anchor": "content5-i",
           "_styles": {
             "P": {
-              "font-size": "18px",
+              "font-size": "24px",
               "color": "#0b4368"
             },
             ".mbr-section-title": {
