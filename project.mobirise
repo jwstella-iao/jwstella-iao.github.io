@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -304,6 +304,26 @@
           ],
           "_name": "call4",
           "_anchor": "call4-v"
+        },
+        {
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgColor": "#3498db"
+          },
+          "text": "<p>Why Assets Backed Cryptocurrency?</p><p>1. More resistant to pump &amp; dump action</p><p>2. Redeemable for real assets</p><p>3. Has real liquidity &amp; intrinsic value</p><p>4. Acts as stablecoin. It is secured, transparent and highly sought for by the market</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1u",
+          "_styles": {
+            "BLOCKQUOTE": {
+              "color": "#ffffff",
+              "font-size": "18px"
+            }
+          }
         },
         {
           "_styles": {
