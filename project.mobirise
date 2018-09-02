@@ -322,6 +322,9 @@
             "BLOCKQUOTE": {
               "color": "#ffffff",
               "font-size": "18px"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           }
         },
