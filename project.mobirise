@@ -311,7 +311,7 @@
             "paddingBottom": "0",
             "bgColor": "#3498db"
           },
-          "text": "<p>Why Assets Backed Cryptocurrency?</p><p>1. More resistant to pump &amp; dump action</p><p>2. Redeemable for real assets</p><p>3. Has real liquidity &amp; intrinsic value</p><p>4. Acts as stablecoin. It is secured, transparent and highly sought for by the market</p>",
+          "text": "<p><b>Why Assets Backed Cryptocurrency (JWSA)?</b></p><p>1. More resistant to pump &amp; dump action</p><p>2. Redeemable for real assets</p><p>3. Has real liquidity &amp; intrinsic value</p><p>4. Acts as stablecoin. It is secured, transparent and highly sought for by the market</p><p><br></p><p><b>Why profit sharing token (JWRD)?</b></p><p>1. To appreciate early investors for their participant in our crowdfunding project</p><p>2. So that investors will get multiple income as our investors</p>",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
@@ -460,80 +460,6 @@
           ],
           "_name": "header5",
           "_anchor": "header5-7"
-        },
-        {
-          "_inherit": "gallery1",
-          "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": 0,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "filterBgColor": false,
-            "bgColor": "#ffffff",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "image": "@PROJECT_PATH@/assets/images/gemstones-1-1024x1015.png",
-                "thumb": "@PROJECT_PATH@/assets/images/gemstones-1-1024x1015-800x793.png",
-                "alt": "",
-                "title": "",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/gold-460x300.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/gold-460x300-460x300.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/ah18261-768x768.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ah18261-768x768-768x768.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=HnPYeBJ9JCc",
-                "image": "@PROJECT_PATH@/assets/images/white-diamond-1024x730-800x570.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/white-diamond-1024x730-800x570-800x570.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ]
-          },
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "articleLayout": false,
-          "arrowleft": "<img src=\"@PROJECT_PATH@/assets/images/arrowleft.png\">",
-          "arrowright": "<img src=\"@PROJECT_PATH@/assets/images/arrowright.png\">",
-          "allItem": "ALL",
-          "_name": "gallery2",
-          "_anchor": "gallery2-n"
         },
         {
           "_params": {
