@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 67,
+    "uniqCompNum": 68,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -463,17 +463,28 @@
         },
         {
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "bgColor": "#ffffff"
+            "showText": false
           },
-          "text": "<p>“Coloured diamonds are the rarest commodity in the world and quite simply the world’s most concentrated form of wealth; it is expected that this trend will continue. The current global yield of coloured diamonds mined per year will slow down… while demand from the jewellery industry keeps rising. Pink and other fancy grade coloured diamonds… are the only commodity that has not decreased in price since they began being tracked in 1959. This will only enhance the validity of JWSA token in the market place,”</p>",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/blockchain-technology-process-e1514123815557-1400x980.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content4",
-          "_anchor": "content4-r"
+          "_name": "image1",
+          "_anchor": "image1-1v"
         },
         {
           "_params": {
@@ -483,7 +494,7 @@
             "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/05.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/6085-01-company-profile-template-1-960x488.png",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#34495e",
@@ -495,7 +506,7 @@
             "overlayColor": "#e74c3c",
             "overlayOpacity": 0.75
           },
-          "title": "Token Sales Allocation \r<div>Early Bird: 40% ($1.00) \r</div><div>Pre-IAO: 30% ($2.00) \r</div><div>IAO: 30% ($4.00)</div><br><div><b>Private Sales starts in&nbsp;</b></div>",
+          "title": "Token Sales Allocation \n<div>Early Bird: 40% ($1.00) \n</div><div>Pre-IAO: 30% ($2.00) \n</div><div>IAO: 30% ($4.00)</div><br><div><b>Private Sales starts in&nbsp;</b></div>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!",
           "alias": "colorm/components",
           "_tags": [
