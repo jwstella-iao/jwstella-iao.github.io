@@ -23,7 +23,9 @@
       "additionalSetColors": [
         "#e7c747",
         "#04558b",
-        "#78f2ab"
+        "#78f2ab",
+        "#0b4368",
+        "#1a3b59"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -33,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 64,
+    "uniqCompNum": 66,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -220,8 +222,8 @@
             "ShowTexts": true,
             "showButtons": false,
             "imageSize": "57",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
@@ -1300,8 +1302,33 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/3d0007-3d-timeline-concept-for-powerpoint-4-year-plan-16x9-1-1024x576.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1t"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
             "showDates": true,
             "blocks": "4",
             "cardsColor": "#eeeeee",
@@ -1309,9 +1336,9 @@
             "paddingBottom": 2,
             "parallax": false,
             "bgColorRadio": true,
-            "bgColor": "#2980b9",
+            "bgColor": "#1a3b59",
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/picture2-1280x721.png",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
