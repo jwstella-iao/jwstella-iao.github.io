@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 87,
+    "uniqCompNum": 88,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -369,6 +369,31 @@
           ],
           "_name": "image1",
           "_anchor": "image1-25"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/7477-01-3d-callout-powerpoint-diagram-16x9-1-1279x720.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-2f"
         },
         {
           "_styles": {
