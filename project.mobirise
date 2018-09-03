@@ -808,51 +808,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "stripedBars": false,
-            "progress1": "95",
-            "progress2": "3",
-            "progress3": "1",
-            "progress4": "1",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/08.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#34495e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#34495e",
-            "overlayOpacity": 0.85
-          },
-          "title": "<b>Token Distribution (68 million JWSA tokens)</b>",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem fugiat perferendis voluptates, animi cum dignissimos debitis, nam hic aspernatur cumque quaerat dolorum sed, delectus rerum omnis consequatur nulla neque temporibus quis ipsam dolor esse dolore! Commodi quidem necessitatibus nesciunt. Repellat quo dolores beatae facere provident rem magnam quidem vel autem?",
-          "title1": "Pre-sale&amp; Crowdfunding",
-          "title2": "JW Stella company",
-          "title3": "marketing team",
-          "title4": "Strategic partnership",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "progress-bar1",
-          "_anchor": "progress-bar1-5",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "30px",
-              "color": "#78f2ab"
-            }
-          }
-        },
-        {
-          "_params": {
             "showText": false
           },
           "media": {
@@ -883,7 +838,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0054-horizontal-steps-with-3d-column-infographic-16x9-1-1280x720.png",
+              "src": "@PROJECT_PATH@/assets/images/0054-horizontal-steps-with-3d-column-infographic-16x9-2-1280x720.png",
               "width": 1400,
               "link": "",
               "alt": "",
