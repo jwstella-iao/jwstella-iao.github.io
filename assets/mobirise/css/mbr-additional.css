@@ -804,7 +804,7 @@ blockquote {
   color: #f39c12!important;
 }
 #content2-1i P {
-  color: #000000;
+  color: #ffffff;
   font-size: 19px;
 }
 #content5-i P {
@@ -813,6 +813,50 @@ blockquote {
 }
 #content5-i .mbr-section-title {
   color: #3498db;
+}
+#header9-1e .elements-content {
+  padding-bottom: 50px;
+}
+#header9-1e .mbr-section-subtitle {
+  letter-spacing: 2px;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+#header9-1e .mbr-section-title,
+#header9-1e .tab-pane {
+  color: #000;
+}
+#header9-1e .mbr-section-title DIV {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 25px;
+}
+#header9-1e .mbr-section-title {
+  font-size: 32px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#header9-1e P {
+  color: #000000;
+}
+#table1-d th {
+  color: #9fa3a7;
+}
+#table1-d .mbr-section-title {
+  font-size: 36px;
+  font-family: 'Open Sans', sans-serif;
+  text-align: left;
+}
+#table1-d .mbr-section-title SPAN {
+  font-size: 32px;
+  color: #ffffff;
+}
+#table1-d TH {
+  color: #ffffff;
+}
+#table1-d TD {
+  color: #78f2ab;
+}
+#table1-d .mbr-section-title DIV {
+  font-size: 20px;
 }
 #features8-1r .lead {
   color: #9fa3a7;
@@ -871,27 +915,6 @@ blockquote {
   letter-spacing: 2px;
   color: #fff;
 }
-#table1-d th {
-  color: #9fa3a7;
-}
-#table1-d .mbr-section-title {
-  font-size: 36px;
-  font-family: 'Open Sans', sans-serif;
-  text-align: left;
-}
-#table1-d .mbr-section-title SPAN {
-  font-size: 32px;
-  color: #ffffff;
-}
-#table1-d TH {
-  color: #ffffff;
-}
-#table1-d TD {
-  color: #78f2ab;
-}
-#table1-d .mbr-section-title DIV {
-  font-size: 20px;
-}
 #social-buttons1-1k .btn-social {
   color: #fff;
   height: 60px;
@@ -903,29 +926,6 @@ blockquote {
   color: #fff;
   font-family: 'Open Sans', sans-serif;
   font-size: 36px;
-}
-#header9-1e .elements-content {
-  padding-bottom: 50px;
-}
-#header9-1e .mbr-section-subtitle {
-  letter-spacing: 2px;
-  margin-bottom: 10px;
-  font-weight: 700;
-}
-#header9-1e .mbr-section-title,
-#header9-1e .tab-pane {
-  color: #000;
-}
-#header9-1e .mbr-section-title DIV {
-  font-family: 'Open Sans', sans-serif;
-  font-size: 25px;
-}
-#header9-1e .mbr-section-title {
-  font-size: 32px;
-  font-family: 'Source Sans Pro', sans-serif;
-}
-#header9-1e P {
-  color: #000000;
 }
 #accordion1-z H1 {
   font-family: 'Open Sans', sans-serif;

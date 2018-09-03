@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 75,
+    "uniqCompNum": 78,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -146,7 +146,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#bbbbbb"
+            "bgColor": "#333333"
           },
           "text": "<p><br></p><p><br></p><p><br></p><p><br></p><p>For internal use only! Not a website<br></p><p><br></p><p>JW Stella Crowdfunding to collect <b><i>USD $65 million</i></b> in public sale.</p><p><br></p><p><b>Name:</b> JW Stella / JWell / Jewel Land / JWStable / JWBlock (Please choose one or any suggestion?)&nbsp;</p><p><br></p><p><b>Summary:</b> </p><p>-A blockchain startup project that offers cryptocurrency that is backed by industrial standard jewelry. </p><p>-It offers 2 types of token. JWSA (68 million tokens),a stablecoin that is pegged to jewellery and will be listed in the crypto-exchanges. JWRD (21,000 token), a rewarding coin that rewards investors with revenue-sharing from the business operation. -</p><p>-The ecosystem is supported by two platforms. An Ecommerce platform for jewelry trading &amp; redemption. An Instant Crypto Exchange for rapid cryptocurrency exchanging. </p><p>-There will be 3 stages of public sales. Early Bird($1), Pre-IAO($2) and IAO($4). </p><p>-Intended crowdfundiing collection is USD 65 millio.</p><p>-Afiiliate system (member get member) may be implemented for marketing purposes.</p><p>-Unique features are Decentralization backed up by Centralization for maximum multiple income/gain.</p><p>-This project will be ready for global marketing and commencing global crowfunding in ~15 days.</p><p>-Company will be registered in Malta and operation in Norway and Melbourne.</p><p><br></p>",
           "alias": "colorm/components",
@@ -157,7 +157,7 @@
           "_anchor": "content2-1i",
           "_styles": {
             "P": {
-              "color": "#000000",
+              "color": "#ffffff",
               "font-size": "19px"
             }
           }
@@ -200,6 +200,326 @@
               "color": "#3498db"
             }
           }
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/ppt1-1-1279x720.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-23"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/0054-horizontal-steps-with-3d-column-infographic-16x9-3-1280x720.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-24"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/9072-05-circular-process-blue-16x9-1-1280x720.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-25"
+        },
+        {
+          "_styles": {
+            ".elements-content": {
+              "padding-bottom": "50px"
+            },
+            ".mbr-section-subtitle": {
+              "letter-spacing": "2px",
+              "margin-bottom": "10px",
+              "font-weight": "700"
+            },
+            ".mbr-section-title, .tab-pane": {
+              "color": "#000"
+            },
+            ".mbr-section-title DIV": {
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-size": "25px"
+            },
+            ".mbr-section-title": {
+              "font-size": "32px",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            },
+            "P": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showHeader": true,
+            "showText": false,
+            "showImages": true,
+            "showTitles": false,
+            "tabs": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#eeeeee",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "",
+              "rawUrl": "",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#ecf0f1",
+            "overlayOpacity": 0.9
+          },
+          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
+          "title": "<br>Peg your investment to the asset that's been rising for 30 years",
+          "text": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit asperiores itaque vero facere laudantium voluptas temporibus mollitia, nisi deleniti illo minima quisquam corporis possimus nesciunt.",
+          "title1": "BOOST YOUR RANKING",
+          "title2": "BOOTSTRAP BUILDER",
+          "title3": "TRENDY WEBSITE BLOCKS",
+          "title4": "HOST ANYWHERE",
+          "title5": "IMAGE/CONTENT SLIDER",
+          "title6": "CONTACT FORMS",
+          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-1e\" aria-expanded=\"true\">world class jewellery</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-1e\" aria-expanded=\"false\">Simple redemption</a></li><li class=\"nav-item\" style=\"display: none;\"><br></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-1e\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-1e\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-1e\">Beautiful</a></li>",
+          "media11": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-550x550.png",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media12": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pure-diamond-600x425.jpg",
+              "class": "card-img-top",
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "media13": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb3.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media14": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb4.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media15": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb5.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media16": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/nb6.png",
+              "class": "card-img-top",
+              "active": true
+            }
+          },
+          "media21": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media22": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "attachment",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media23": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "paperclip",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media24": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "upload",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media25": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "genius",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "media26": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-header5",
+              "name": "global",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "@primaryColor",
+              "family": "et-line"
+            }
+          },
+          "text1": "JWSA is mainly backed by the best quality diamonds:\n<br>Size from 0.3 Carats to 6 Carats and higher\n<br>Clarity from VS1 to Flawless\n<br>Color F and higher\n<br>Very Good or Excellent Cut<br><br>Always get your money’s worth. JWSA Tokens are backed by diamonds, making them forever liquid.<br>",
+          "text2": "Converting JWSA into diamonds/jewellery is as simple as redeeming air miles. Choose your diamond, book it in the system and redeem for JWSA Token.<br><br>You can redeem JESA Tokens for real, GIA-certified diamonds.<br>",
+          "text3": "JW Stella is tokenizing the world’s most precious commodity — diamonds and jewellery. We're building a liquid method to exchange diamonds’ digital value with a real-world usage and exposure to the diamond and jewelry industries.",
+          "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
+          "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header9",
+          "_anchor": "header9-1e"
+        },
+        {
+          "_styles": {
+            "th": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "text-align": "left"
+            },
+            ".mbr-section-title SPAN": {
+              "font-size": "32px",
+              "color": "#ffffff"
+            },
+            "TH": {
+              "color": "#ffffff"
+            },
+            "TD": {
+              "color": "#78f2ab"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "20px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showSearch": false,
+            "rowСount": "12",
+            "colCount": "2",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#34495e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "<span style=\"font-weight: normal;\">JWSA Token (<a href=\"https://github.com/jwstella-iao/jwsa-token/tree/master\" class=\"text-success\">github</a>)</span><br>",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Subject</th><th>Details</th></tr></thead><tbody><tr><td>Name</td><td>JW Stella</td></tr><tr><td>Symbol</td><td>JWSA</td></tr><tr><td>Max Supply</td><td>68 million JWSA</td></tr><tr><td>For Sale</td><td>65 million JWSA</td></tr><tr><td>Early Bird Price</td><td>USD $1</td></tr><tr><td>Pre-IAO Price</td><td>USD $ 2</td></tr><tr><td>IAO Price</td><td>USD $4</td></tr><tr><td>Sales Duration</td><td>Uncapped</td></tr><tr><td>Soft Cap</td><td>Uncapped</td></tr><tr><td>Hard Cap</td><td>Uncapped</td></tr><tr><td>Currency Accepted</td><td>BTC and ETH</td></tr><tr><td>Token Type</td><td>ERC20 Token. Fixed Supply</td></tr></tbody>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "table1",
+          "_anchor": "table1-d"
         },
         {
           "_styles": {
@@ -709,65 +1029,6 @@
         },
         {
           "_styles": {
-            "th": {
-              "color": "#9fa3a7"
-            },
-            ".mbr-section-title": {
-              "font-size": "36px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "text-align": "left"
-            },
-            ".mbr-section-title SPAN": {
-              "font-size": "32px",
-              "color": "#ffffff"
-            },
-            "TH": {
-              "color": "#ffffff"
-            },
-            "TD": {
-              "color": "#78f2ab"
-            },
-            ".mbr-section-title DIV": {
-              "font-size": "20px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showSearch": false,
-            "rowСount": "12",
-            "colCount": "2",
-            "paddingTop": "2",
-            "paddingBottom": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/flight-mountains-sky-flying.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#34495e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.4
-          },
-          "title": "<span style=\"font-weight: normal;\">JWSA Token (<a href=\"https://github.com/jwstella-iao/jwsa-token/tree/master\" class=\"text-success\">github</a>)</span><br>",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th>Subject</th><th>Details</th></tr></thead><tbody><tr><td>Name</td><td>JW Stella</td></tr><tr><td>Symbol</td><td>JWSA</td></tr><tr><td>Max Supply</td><td>68 million JWSA</td></tr><tr><td>For Sale</td><td>65 million JWSA</td></tr><tr><td>Early Bird Price</td><td>USD $1</td></tr><tr><td>Pre-IAO Price</td><td>USD $ 2</td></tr><tr><td>IAO Price</td><td>USD $4</td></tr><tr><td>Sales Duration</td><td>Uncapped</td></tr><tr><td>Soft Cap</td><td>Uncapped</td></tr><tr><td>Hard Cap</td><td>Uncapped</td></tr><tr><td>Currency Accepted</td><td>BTC and ETH</td></tr><tr><td>Token Type</td><td>ERC20 Token. Fixed Supply</td></tr></tbody>",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "table1",
-          "_anchor": "table1-d"
-        },
-        {
-          "_styles": {
             ".btn-social": {
               "color": "#fff",
               "height": "60px",
@@ -805,242 +1066,6 @@
           ],
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-1k"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/9072-05-circular-process-blue-16x9-1-1280x720.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-22"
-        },
-        {
-          "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/0054-horizontal-steps-with-3d-column-infographic-16x9-2-1280x720.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-1z"
-        },
-        {
-          "_styles": {
-            ".elements-content": {
-              "padding-bottom": "50px"
-            },
-            ".mbr-section-subtitle": {
-              "letter-spacing": "2px",
-              "margin-bottom": "10px",
-              "font-weight": "700"
-            },
-            ".mbr-section-title, .tab-pane": {
-              "color": "#000"
-            },
-            ".mbr-section-title DIV": {
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "25px"
-            },
-            ".mbr-section-title": {
-              "font-size": "32px",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
-            },
-            "P": {
-              "color": "#000000"
-            }
-          },
-          "_params": {
-            "showHeader": true,
-            "showText": false,
-            "showImages": true,
-            "showTitles": false,
-            "tabs": "2",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#eeeeee",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "",
-              "rawUrl": "",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": false,
-            "overlayColor": "#ecf0f1",
-            "overlayOpacity": 0.9
-          },
-          "arrowDown": "@THEME_PATH@/components/_images/header/arrowDown.png",
-          "title": "<br>Peg your investment to the asset that's been rising for 30 years",
-          "text": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit asperiores itaque vero facere laudantium voluptas temporibus mollitia, nisi deleniti illo minima quisquam corporis possimus nesciunt.",
-          "title1": "BOOST YOUR RANKING",
-          "title2": "BOOTSTRAP BUILDER",
-          "title3": "TRENDY WEBSITE BLOCKS",
-          "title4": "HOST ANYWHERE",
-          "title5": "IMAGE/CONTENT SLIDER",
-          "title6": "CONTACT FORMS",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-1e\" aria-expanded=\"true\">world class jewellery</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-1e\" aria-expanded=\"false\">Simple redemption</a></li><li class=\"nav-item\" style=\"display: none;\"><br></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-1e\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-1e\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-1e\">Beautiful</a></li>",
-          "media11": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/logo-550x550.png",
-              "class": "card-img-top",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media12": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/pure-diamond-600x425.jpg",
-              "class": "card-img-top",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": ""
-            }
-          },
-          "media13": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb3.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media14": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb4.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media15": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb5.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media16": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb6.png",
-              "class": "card-img-top",
-              "active": true
-            }
-          },
-          "media21": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media22": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "attachment",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media23": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "paperclip",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media24": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "upload",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media25": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "genius",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "media26": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont mbr-iconfont-header5",
-              "name": "global",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "@primaryColor",
-              "family": "et-line"
-            }
-          },
-          "text1": "JWSA is mainly backed by the best quality diamonds:\n<br>Size from 0.3 Carats to 6 Carats and higher\n<br>Clarity from VS1 to Flawless\n<br>Color F and higher\n<br>Very Good or Excellent Cut<br><br>Always get your money’s worth. JWSA Tokens are backed by diamonds, making them forever liquid.<br>",
-          "text2": "Converting JWSA into diamonds/jewellery is as simple as redeeming air miles. Choose your diamond, book it in the system and redeem for JWSA Token.<br><br>You can redeem JESA Tokens for real, GIA-certified diamonds.<br>",
-          "text3": "JW Stella is tokenizing the world’s most precious commodity — diamonds and jewellery. We're building a liquid method to exchange diamonds’ digital value with a real-world usage and exposure to the diamond and jewelry industries.",
-          "text4": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laboriosam, nisi, ea. Excepturi dolores, laborum ipsum soluta aliquid, ullam repellat ratione iste harum voluptatem? Alias id blanditiis, sequi possimus dolorem dolorum.",
-          "text5": "Create a responsive, touch-swipe slideshow with <a href=\"http://mobirise.com\">Mobirise bootstrap slider</a>. Add images, text, buttons to slides, set autoplay, full-screen, full-width or boxed layout. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde sunt, illo quo ipsa. Laboriosam voluptatem sunt nisi velit incidunt labore, sapiente pariatur ipsam fugiat doloremque asperiores eos ipsum, eveniet cum.",
-          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header9",
-          "_anchor": "header9-1e"
         },
         {
           "_params": {
