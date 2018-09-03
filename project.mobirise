@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -161,6 +161,20 @@
               "font-size": "19px"
             }
           }
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<div id=\"particles-js\"></div>\n\n<div class=\"text\">\n\t<h1>Particles Background</h1>\n\t<p>Using <a href=\"https://github.com/VincentGarreau/particles.js/\">ParticlesJS</a> and well.. that's about it, actually ¯\\_(ツ)_/¯</p>\n</div>",
+          "_customCSS": "// SASS Variables.\n$text: #fff;\n$link: #e34234;\n$link-hover: #ba160c;\n$background: #00356B;\n\ncanvas {\n  display: block;\n  vertical-align: bottom;\n}\n\n#particles-js {\n  position: absolute;\n  width: 100%;\n  height: 100%;\n\tbackground: $background\n}\n\n.text {\n\tposition: absolute;\n\ttop: 50%;\n\tright: 50%;\n\ttransform: translate(50%,-50%);\n\tcolor: $text;\n\tmax-width: 90%;\n\tpadding: 2em 3em;\n\tbackground: rgba(0, 0, 0, 0.4);\n\ttext-shadow: 0px 0px 2px #131415;\n\tfont-family: 'Open Sans', sans-serif;\n}\n\nh1 {\n\tfont-size: 2.25em;\n\tfont-weight: 700;\n\tletter-spacing: -1px;\n}\n\na,\na:visited {\n\tcolor: $link;\n\ttransition: 0.25s;\n}\n\na:hover,\na:focus {\n\tcolor: $link-hover;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2i",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_params": {
