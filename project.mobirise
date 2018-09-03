@@ -313,7 +313,7 @@
             "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#eeeeee",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "",
@@ -347,7 +347,7 @@
           },
           "media12": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pure-diamond-600x425.jpg",
+              "src": "@PROJECT_PATH@/assets/images/f20800264af71516083804-pink-ring-900px-900x603.jpg",
               "class": "card-img-top",
               "active": true,
               "link": "",
