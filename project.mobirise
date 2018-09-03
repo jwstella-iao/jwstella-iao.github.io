@@ -853,32 +853,7 @@
         },
         {
           "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/9072-05-circular-process-blue-16x9-1-1024x576.jpg",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-20"
-        },
-        {
-          "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
@@ -987,7 +962,7 @@
           "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-1e\" aria-expanded=\"true\">world class jewellery</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-1e\" aria-expanded=\"false\">Simple redemption</a></li><li class=\"nav-item\" style=\"display: none;\"><br></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-1e\">Awesome</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-1e\">Amazing</a></li><li class=\"nav-item\" style=\"display: none\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-1e\">Beautiful</a></li>",
           "media11": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/howitworksimage-921x651.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-550x550.png",
               "class": "card-img-top",
               "active": true,
               "link": "",
