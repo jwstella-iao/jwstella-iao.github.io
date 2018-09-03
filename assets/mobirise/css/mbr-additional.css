@@ -23,7 +23,6 @@
 
 
 
-
 body,
 input,
 textarea,
@@ -910,15 +909,6 @@ blockquote {
   font-family: 'Open Sans', sans-serif;
   font-size: 30px;
   color: #78f2ab;
-}
-#progress-bar2-1f .mbr-section-title {
-  color: #ffffff;
-  font-size: 30px;
-  font-family: 'Open Sans', sans-serif;
-  text-align: left;
-}
-#progress-bar2-1f .mbr-section-subtitle {
-  color: #ffffff;
 }
 #header9-1e .elements-content {
   padding-bottom: 50px;

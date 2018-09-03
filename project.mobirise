@@ -853,55 +853,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "showText": false,
-            "stripedBars": true,
-            "progress1": "75",
-            "progress2": "15",
-            "progress3": "5",
-            "progress4": "5",
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/02.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#1abc9c",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#1abc9c",
-            "overlayOpacity": 0.85
-          },
-          "title": "<b>Funding Distribution</b>",
-          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem fugiat perferendis voluptates, animi cum dignissimos debitis, nam hic aspernatur cumque quaerat dolorum sed, delectus rerum omnis consequatur nulla neque temporibus quis ipsam dolor esse dolore! Commodi quidem necessitatibus nesciunt. Repellat quo dolores beatae facere provident rem magnam quidem vel autem?",
-          "title1": "PRECIOUS JEWELLERY INVENTORIES AND OPERATIONS",
-          "title2": "PLATFORM DEVELOPMENT",
-          "title3": "Marketing",
-          "title4": "Crowfunding operation",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "progress-bar2",
-          "_anchor": "progress-bar2-1f",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "30px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "text-align": "left"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_params": {
             "showText": false
           },
           "media": {
