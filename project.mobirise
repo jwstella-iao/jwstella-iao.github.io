@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 78,
+    "uniqCompNum": 81,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -198,6 +198,26 @@
             },
             ".mbr-section-title": {
               "color": "#3498db"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#3498db"
+          },
+          "text": "<p>An Initial Assets Offering (IAO) is the cryptocurrency space's rough equivalent to an IPO in the mainstream investment world. IAOs act as fundraisers of sorts; a company looking to create a new coin, app, or service launches an IAO. Next, interested investors buy in to the offering, either with fiat currency or with preexisting digital tokens like ether. In exchange for their support, investors receive a new cryptocurrency token specific to the IAO. Investors hope that the token will perform exceptionally well into the future, providing them with a stellar return on investment. The company holding the IAO uses the investor funds as a means of furthering its goals, launching its product, or starting its digital currency. IAOs are used by startups to bypass the rigorous and regulated capital-raising process required by venture capitalists or banks.</p>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content4",
+          "_anchor": "content4-28",
+          "_styles": {
+            "P": {
+              "font-size": "19px",
+              "color": "#ffffff"
             }
           }
         },
