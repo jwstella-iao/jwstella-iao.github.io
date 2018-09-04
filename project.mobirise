@@ -1060,6 +1060,12 @@
             ".mbr-section-text": {
               "color": "#000000",
               "font-size": "23px"
+            },
+            ".mbr-section-text B": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-title": {
+              "color": "#ecf0f1"
             }
           },
           "_params": {
@@ -1077,7 +1083,7 @@
             "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#fff",
+            "bgColor": "#e74c3c",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
