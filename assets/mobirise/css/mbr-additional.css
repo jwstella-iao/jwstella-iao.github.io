@@ -855,12 +855,13 @@ blockquote {
   color: #9fa3a7;
 }
 #table1-d .mbr-section-title {
-  font-size: 36px;
+  font-size: 19px;
   font-family: 'Open Sans', sans-serif;
   text-align: left;
+  color: #f1c40f;
 }
 #table1-d .mbr-section-title SPAN {
-  font-size: 32px;
+  font-size: 19px;
   color: #ffffff;
 }
 #table1-d TH {
@@ -913,7 +914,7 @@ blockquote {
   text-align: center;
   color: #eeeeee;
   font-family: 'Open Sans', sans-serif;
-  font-size: 36px;
+  font-size: 18px;
 }
 #countdown2-2 .mbr-section-title DIV {
   font-size: 25px;

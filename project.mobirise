@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 92,
+    "uniqCompNum": 94,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -637,13 +637,14 @@
               "color": "#9fa3a7"
             },
             ".mbr-section-title": {
-              "font-size": "36px",
+              "font-size": "19px",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "text-align": "left"
+              "text-align": "left",
+              "color": "#f1c40f"
             },
             ".mbr-section-title SPAN": {
-              "font-size": "32px",
+              "font-size": "19px",
               "color": "#ffffff"
             },
             "TH": {
@@ -1020,7 +1021,7 @@
             "overlayColor": "#e74c3c",
             "overlayOpacity": 0.75
           },
-          "title": "Token Sales Allocation \n<div>Early Bird: 40% ($1.00) \n</div><div>Pre-IAO: 30% ($2.00) \n</div><div>IAO: 30% ($4.00)</div><br><div><b>Private Sales starts in&nbsp;</b></div>",
+          "title": "Token Sales Allocation \n<div>Early Bird: 40% ($1.00) \n</div><div>Pre-IAO: 30% ($2.00) \n</div><div>IAO: 30% ($4.00)</div><br><div><br></div>0x84de8fc60c89A7Df96De615D83B85fd1Ab5cAB00<br><br><div><b>Private Sales starts in&nbsp;</b></div>",
           "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci a, rem accusantium recusandae beatae. Eos quae sint minus dolorum facere, iure illum veritatis harum minima quod voluptatibus culpa tenetur eveniet enim. Natus, id cupiditate aperiam obcaecati incidunt nam minus accusantium libero officia expedita dignissimos optio, quis, minima quibusdam esse saepe!",
           "alias": "colorm/components",
           "_tags": [
@@ -1034,7 +1035,7 @@
               "color": "#eeeeee",
               "font-family": "'Open Sans', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
-              "font-size": "36px"
+              "font-size": "18px"
             },
             ".mbr-section-title DIV": {
               "font-size": "25px"
