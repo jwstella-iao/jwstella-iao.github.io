@@ -1076,7 +1076,7 @@
             "showSubtitles": false,
             "ShowTexts": true,
             "showButtons": false,
-            "imageSize": "58",
+            "imageSize": "20",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
