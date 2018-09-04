@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 91,
+    "uniqCompNum": 92,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -1054,6 +1054,60 @@
           ],
           "_name": "buttons1",
           "_anchor": "buttons1-s"
+        },
+        {
+          "_styles": {
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "23px"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showNumber": false,
+            "number1": "01",
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false,
+            "imageSize": "58",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.9
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-550x550.png",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            }
+          },
+          "title1": "Tokens Generated Must Be:",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "<b>1. 100% secured<br>2. Owner must have full control<br>3. Fixed Suppy only<br>4. Owner must own the Contract Address<br>5. Coding must be audited and no hidden smart-contracts<br>6. Must be listable in the crypto-exchanges &amp; CMC</b><br><b>7. Self dependence, not controlled by the developer</b>",
+          "number1": "01",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">watch now</a>",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features14",
+          "_anchor": "features14-2j"
         },
         {
           "_styles": {
