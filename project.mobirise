@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 100,
+    "uniqCompNum": 101,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -50,6 +50,45 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showCaption": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/bg1-1024x576.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#04558b",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/12OTJw0iLeI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/embed/12OTJw0iLeI?rel=0&showinfo=0&autoplay=0&loop=0",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": false,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "<br>JW Stella",
+          "caption": "<p>A decentralized ecosystem that is 100% backed up by luxurious jewelleries and pegged to their steadily increasing market value.</p><p>And at the same time its partial centralized algorithm intend to reward investors with profit-sharing at regular intervals.</p><p><b><a href=\"https://docs.google.com/document/d/1DmVfXXZZY5GAYjMi7czGJ5zredTd8FJ9ytd0hOBx_WA/edit?usp=sharing\" class=\"text-primary\">Whitepaper</a></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-i",
+          "_styles": {
+            "P": {
+              "font-size": "19px",
+              "color": "#0b4368"
+            },
+            ".mbr-section-title": {
+              "color": "#3498db"
+            }
+          }
+        },
         {
           "_params": {
             "autoplay": true,
@@ -279,45 +318,6 @@
           ],
           "_name": "image1",
           "_anchor": "image1-2g"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showCaption": true,
-            "paddingTop": "2",
-            "paddingBottom": "1",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/bg1-1024x576.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#04558b",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/12OTJw0iLeI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://www.youtube.com/embed/12OTJw0iLeI?rel=0&showinfo=0&autoplay=0&loop=0",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": false,
-            "overlayColor": "#000000",
-            "overlayOpacity": "0.7"
-          },
-          "title": "JW Stella",
-          "caption": "<p>A decentralized ecosystem that is 100% backed up by luxurious jewelleries and pegged to their steadily increasing market value.</p><p>And at the same time its partial centralized algorithm intend to reward investors with profit-sharing at regular intervals.</p><p><b><a href=\"https://docs.google.com/document/d/1DmVfXXZZY5GAYjMi7czGJ5zredTd8FJ9ytd0hOBx_WA/edit?usp=sharing\" class=\"text-primary\">Whitepaper</a></b></p>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-i",
-          "_styles": {
-            "P": {
-              "font-size": "19px",
-              "color": "#0b4368"
-            },
-            ".mbr-section-title": {
-              "color": "#3498db"
-            }
-          }
         },
         {
           "_params": {
