@@ -136,31 +136,6 @@
         },
         {
           "_params": {
-            "showText": false
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/6622-01-glass-layer-template-7-1279x720.png",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
-            }
-          },
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "image1",
-          "_anchor": "image1-2v"
-        },
-        {
-          "_params": {
             "autoplay": true,
             "animType": "kenburns",
             "theme": "absent",
@@ -281,6 +256,31 @@
           ],
           "_name": "wowslider",
           "_anchor": "wowslider-2o"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/6622-01-glass-layer-template-7-1279x720.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-2v"
         },
         {
           "_styles": {
