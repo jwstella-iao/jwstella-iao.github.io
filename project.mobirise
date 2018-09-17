@@ -121,7 +121,7 @@
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/42338176-abstract-futuristic-molecules-technology-with-colorful-wave-background-illustration-vector-design-di-450x322.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/42338176-abstract-futuristic-molecules-technology-with-colorful-wave-background-illustration-vector-design-di-85x48.png",
-                "title": "Background ",
+                "title": "Background Preparation",
                 "text": "1",
                 "active": false
               },
@@ -131,9 +131,9 @@
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/42345498-abstract-futuristic-molecules-technology-background-illustration-vector-design-digital-technology-co-450x310.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/42345498-abstract-futuristic-molecules-technology-background-illustration-vector-design-digital-technology-co-85x48.png",
-                "title": "Background",
+                "title": "Background Preparation",
                 "text": "2",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/46027541-vector-illustration-engineering-technology-integration-and-innovation-technology-concept-with-3d-pap-640x360.jpg",
@@ -141,7 +141,7 @@
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/46027541-vector-illustration-engineering-technology-integration-and-innovation-technology-concept-with-3d-pap-450x271.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/46027541-vector-illustration-engineering-technology-integration-and-innovation-technology-concept-with-3d-pap-85x48.png",
-                "title": "",
+                "title": "Background Preparation",
                 "text": "4",
                 "active": false
               },
@@ -151,9 +151,9 @@
                 "link": false,
                 "src": "@PROJECT_PATH@/assets/images/42291042-abstract-3d-rendering-of-chaotic-structure-dark-background-with-futuristic-shape-in-empty-space--450x340.jpg",
                 "tooltip": "@PROJECT_PATH@/assets/images/42291042-abstract-3d-rendering-of-chaotic-structure-dark-background-with-futuristic-shape-in-empty-space-85x48.png",
-                "title": "",
+                "title": "Background Preparation",
                 "text": "4",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/42345501-abstract-molecules-and-communication-technology-with-integrated-circles-with-blank-space-for-your-de-1-640x360.jpg",
