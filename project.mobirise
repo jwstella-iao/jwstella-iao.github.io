@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 104,
+    "uniqCompNum": 105,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -116,7 +116,32 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/6622-01-glass-layer-template-6-1279x720.png",
+              "src": "@PROJECT_PATH@/assets/images/6734-01-business-diagram-16x9-11-1279x720.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/HnPYeBJ9JCc"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-2w"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/6734-01-business-diagram-16x9-11-1279x720.png",
               "width": 1400,
               "link": "",
               "alt": "",
