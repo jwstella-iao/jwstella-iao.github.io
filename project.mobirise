@@ -35,7 +35,7 @@
     "cookiesAlert": "",
     "siteUrl": "undefined",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 102,
+    "uniqCompNum": 103,
     "versionPublish": "4.6.7",
     "screenshot": "screenshot.png"
   },
@@ -437,6 +437,25 @@
           ],
           "_name": "animated-bg1",
           "_anchor": "animated-bg1-2d"
+        },
+        {
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "bgColor": "#ffffff"
+          },
+          "text": "<b>Questions noted. Answerable in Whitepaper and Q&amp;A soon!</b><br>1）技術團隊\n<br>2）与MEI合作開發巨矅區塊链\n<br>3）區塊链与加密數據币的趨勢\n<br>4）什麼是區塊链与加密數據币\n<br>5）巨曜集團期下的珠宝部門的珠宝币是怎樣的加密數據貨幣\n<br>6）珠宝币未來的流通管道与價值",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2u",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         },
         {
           "_params": {

@@ -832,6 +832,9 @@ blockquote {
   font-family: 'Open Sans', sans-serif;
   font-size: 60px;
 }
+#content1-2u P {
+  color: #000000;
+}
 #header9-1e .elements-content {
   padding-bottom: 50px;
 }
